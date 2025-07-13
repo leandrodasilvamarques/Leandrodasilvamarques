@@ -2,15 +2,7 @@
 
 ###
 
-<h5 align="left">Tenho 23 anos e estou cursando Sistemas de informação (UFPB)<br>- BackAnd<br>- Android Developer</h5>
-
-###
-
-<h3 align="center">Formação complementar(Cursos)</h3>
-
-###
-
-<p align="left">- Kotlin e Spring do ZERO ao Avançado, da Udemy, ministrado por Gustavo Pinoti<br>- Livro Kotlin com Android, de Kassiano Resende, publicado pela Casa do Código<br>- Curso Desenvolvimento de Aplicativos Android usando Kotlin, da Udemy, ministrado por Gabriel Ferrari<br>- Curso Java COMPLETO: Do Zero ao Profissional + Projetos, da Udemy, ministrado por Leonardo Moura Leitao<br>- BootCamp Formação Android Developer, na DIO<br>- Santander Bootcamp 2023 - Backend Java, na DIO</p>
+<p align="left">Tenho 23 anos e estou cursando Sistemas de informação (UFPB)<br>- BackAnd<br>- Android Developer</p>
 
 ###
 
@@ -45,9 +37,20 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrodasilvamarques&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="15" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=leandrodasilvamarques&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrodasilvamarques&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h3 align="center">Formação complementar(Cursos)</h3>
+
+###
+
+<p align="left">- Kotlin e Spring do ZERO ao Avançado, da Udemy, ministrado por Gustavo Pinoti<br>- Livro Kotlin com Android, de Kassiano Resende, publicado pela Casa do Código<br>- Curso Desenvolvimento de Aplicativos Android usando Kotlin, da Udemy, ministrado por Gabriel Ferrari<br>- Curso Java COMPLETO: Do Zero ao Profissional + Projetos, da Udemy, ministrado por Leonardo Moura Leitao<br>- BootCamp Formação Android Developer, na DIO<br>- Santander Bootcamp 2023 - Backend Java, na DIO</p>
+
+###
+
+<h3 align="center">Sociais</h3>
 
 ###
 
