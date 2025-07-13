@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">- Kotlin e Spring do ZERO ao Avançado, da Udemy, ministrado por Gustavo Pinoti<br>- Livro Kotlin com Android, de Kassiano Resende, publicado pela Casa do Código<br>- Curso Desenvolvimento de Aplicativos Android usando Kotlin, da Udemy, ministrado por Gabriel Ferrari<br>- Curso Java COMPLETO: Do Zero ao Profissional + Projetos, da Udemy, ministrado por Leonardo Moura Leitao<br>- BootCamp Formação Android Developer, na DIO<br>- Santander Bootcamp 2023 - Backend Java, na DIO</p>
+<p align="center">- Kotlin e Spring do ZERO ao Avançado, da Udemy, ministrado por Gustavo Pinoti<br>- Livro Kotlin com Android, de Kassiano Resende, publicado pela Casa do Código<br>- Curso Desenvolvimento de Aplicativos Android usando Kotlin, da Udemy, ministrado por Gabriel Ferrari<br>- Curso Java COMPLETO: Do Zero ao Profissional + Projetos, da Udemy, ministrado por Leonardo Moura Leitao<br>- BootCamp Formação Android Developer, na DIO<br>- Santander Bootcamp 2023 - Backend Java, na DIO</p>
 
 ###
 
