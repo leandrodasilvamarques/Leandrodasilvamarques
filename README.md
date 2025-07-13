@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="center">Formação complementar(Cursos)</h3>
+<h3 align="center">Formações complementares(Cursos)</h3>
 
 ###
 
