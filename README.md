@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Tenho 23 anos e estou cursando Sistemas de informação (UFPB)<br>- Multiplataforma com Dart e Flutter<br>- BackAnd<br>- Android Developer</p>
+<p align="left">Tenho 23 anos e estou cursando Sistemas de informação (UFPB)<br>- Multiplataforma com Dart e Flutter<br>- BackAnd com Java e Kotlin<br>- Android Developer com Kotlin</p>
 
 ###
 
